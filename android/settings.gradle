@@ -1,0 +1,3 @@
+rootProject.name = 'FabTestSegment'
+
+include ':app'
